@@ -3,12 +3,11 @@
 - 📫 How to reach me: mikkelme@uio.no
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelme&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <!--
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mikkelme)
-
-
-
 **mikkelme/mikkelme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,5 +22,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+Have more pins:
+[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
+
+Have some stats (not impressive for me):
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mikkelme)
 
 -->
