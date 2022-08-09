@@ -2,7 +2,7 @@
 - 💬 Ask me about machine learning and statistical mechanics
 - 📫 How to reach me: mikkelme@uio.no
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikke)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelme)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
