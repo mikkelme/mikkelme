@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelme&layout=compact&theme=cobalt&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
@@ -18,4 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelme&layout=compact&theme=cobalt&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
