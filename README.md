@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on master's thesis
+- 🔭 I’m currently working on my master's thesis
 - 💬 Ask me about machine learning and statistical mechanics
 - 📫 How to reach me: mikkelme@uio.no
 
