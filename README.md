@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on my master's thesis on the topic of *Tuning frictional properties using kirigami inspired cuts and inverse design*.
+- 🔭 I’m currently working on my master's thesis on the topic of "*Tuning frictional properties using kirigami inspired cuts and inverse design*".
 - 📫 How to reach me: mikkelme@uio.no
 
 
