@@ -1,6 +1,6 @@
 - 🔭 PhD candidate at ETH Zürich, exploring multi-phase MPM for simulation of debris flows and avalanches at WSL Institute for Snow and Avalanche Research SLF, Davos.
 - 🔭 Guest researcher at the University of Oslo, investigating the frictional properties of graphene kirigami using molecular dynamics.
-- 📫 How to reach me: mikkel.metzsch@slf.no
+- 📫 How to reach me: mikkel.metzsch@slf.ch
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelme&langs_count=8&hide=Tex,Makefile)](https://github.com/anuraghazra/github-readme-stats)
